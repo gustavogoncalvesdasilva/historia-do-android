@@ -28,7 +28,7 @@
 }
 
 body {
-    background-color: var(--cor1);
+    background-image: url('../imagens/imagem-do-androide.png');
     font-family: var(--fonte-padrao);
 }
 
